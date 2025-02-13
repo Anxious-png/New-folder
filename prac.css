@@ -1,8 +1,18 @@
-P{
-    color: blue;
-    font-family: cursive;
+.row{
+    border-style: dotted;
+    border: 1px solid;
+
 }
-.table{
-    border: 1px;
-    
+.col{
+    border-style: solid;
 }
+a:active{
+    color: blueviolet;
+}
+a:hover{
+    color: chartreuse;
+}
+a:link{
+    color: aqua;
+}
+
